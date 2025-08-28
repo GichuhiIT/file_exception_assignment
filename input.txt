@@ -1,0 +1,2 @@
+Hello Gichuhi, this is your file handling test.
+Python makes file handling fun and powerful!
