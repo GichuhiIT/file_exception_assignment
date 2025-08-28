@@ -9,11 +9,11 @@
 
 ## Example Run
 ✅ File Read & Write:
-input.txt
+'input.txt'
 Hello Gichuhi, this is your file handling test.
 Python makes file handling fun and powerful!
 
-output.txt
+'output.txt'
 HELLO GICHUHI, THIS IS YOUR FILE HANDLING TEST.
 PYTHON MAKES FILE HANDLING FUN AND POWERFUL!
 
